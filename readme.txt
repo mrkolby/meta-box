@@ -4,7 +4,7 @@ Donate link: http://www.deluxeblogtips.com/donate
 Tags: meta-box, custom-fields, custom-field, meta, meta-boxes
 Requires at least: 3.0
 Tested up to: 3.4.2
-Stable tag: 4.2.2
+Stable tag: 4.2.3
 
 Meta Box plugin helps you easily implement multiple meta boxes in editing pages in WordPress. Works with custom post types and various field types.
 
@@ -60,6 +60,9 @@ To getting started with the plugin API, please read [this tutorial](http://www.d
 2. Advanced fields
 
 == Changelog ==
+
+= 4.2.3 =
+* Bug fix: clone date field. [Link](http://www.deluxeblogtips.com/forums/viewtopic.php?id=299)
 
 = 4.2.2 =
 * Bug fix: `time` field doesn't work. [Link](http://wordpress.org/support/topic/time-field-js-wont-run-without-datetime)
